@@ -1,0 +1,59 @@
+#tinymce {
+	font-size: 0.8rem !important;
+	margin: 0 !important;
+	padding: 0.8rem 1.2rem !important;
+}
+
+#tinymce * {
+	text-transform: none !important; /* Prevents users typing case inconsistently if site styles include text-transform */
+}
+
+#tinymce h1 {
+	font-size: 2em !important;
+	margin-bottom: 0.67em !important;
+}
+
+#tinymce h2 {
+	font-size: 1.5em !important;
+	margin-bottom: 0.82em !important;
+}
+
+#tinymce h3 {
+	font-size: 1.17em !important;
+	margin-bottom: 1em !important;
+}
+
+#tinymce h4 {
+	font-size: 1.33em !important;
+	margin-bottom: 1.33em !important;
+}
+
+#tinymce h5 {
+	font-size: 0.83em !important;
+	margin-bottom: 1.67em !important;
+}
+
+#tinymce h6 {
+	font-size: 0.67em !important;
+	margin-bottom: 2.33em !important;
+}
+
+#tinymce pre {
+	font-family: monospace !important;
+}
+
+#tinymce p, #tinymce ul, #tinymce ol, #tinymce dl {
+	font-size: 1em !important;
+	line-height: 1.33em !important;
+	margin-bottom: 1em !important;
+}
+
+#tinymce ul {
+	list-style: disc !important;
+	padding-left: 2em !important;
+}
+
+#tinymce ol {
+	list-style: decimal !important;
+	padding-left: 2em !important;
+}
